@@ -1,0 +1,7 @@
+Order_ID,Customer_Name,Order_Date,Product,Category,Quantity,Price,City,Date_of_Birth
+1001,Rahul Sharma,12-01-2025,Laptop,Electronics,2,55000,Delhi,15-08-2000
+1002,Priya Singh,15/01/2025,Mobile,Electronics,1,20000,Mumbai,10-05-1999
+1003,Amit Kumar,18-01-2025,Shoes,Fashion,3,2500,Kolkata,22-11-2001
+1004,Rahul Sharma,12-01-2025,Laptop,Electronics,2,55000,Delhi,15-08-2000
+1005,Neha Verma,20-01-2025,Watch,Fashion,1,,Pune,05-02-1998
+1006,Arjun Das,25-01-2025,Tablet,Electronics,1500,15000,Chennai,18-09-1997
