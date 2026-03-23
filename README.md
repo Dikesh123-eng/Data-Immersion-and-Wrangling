@@ -37,6 +37,6 @@ A clean dataset named `cleaned_sales_data.csv` ready for analysis.
 ---
 
 ## 👨‍💻 Author
-Dikesh Singh
+Dikesh kumar
 
 
